@@ -1,0 +1,1581 @@
+[2025-08-03 17:44:39] Memory Usage: 6685 MB / 7865 MB (84)
+[2025-08-03 17:44:39] CPU Usage: 11.90
+[2025-08-03 17:44:39] Port: 135 | PID: 1652
+[2025-08-03 17:44:39] Port: 445 | PID: 4
+[2025-08-03 17:44:39] Port: 1521 | PID: 8460
+[2025-08-03 17:44:39] Port: 5040 | PID: 10776
+[2025-08-03 17:44:39] Port: 7070 | PID: 5720
+[2025-08-03 17:44:39] Port: 7680 | PID: 3008
+[2025-08-03 17:44:39] Port: 49664 | PID: 1356
+[2025-08-03 17:44:39] Port: 49665 | PID: 1188
+[2025-08-03 17:44:39] Port: 49668 | PID: 3388
+[2025-08-03 17:44:39] Port: 49669 | PID: 3496
+[2025-08-03 17:44:39] Port: 49672 | PID: 5348
+[2025-08-03 17:44:39] Port: 49681 | PID: 1308
+[2025-08-03 17:44:39] Port: 49695 | PID: 8704
+[2025-08-03 17:44:39] Port: 49697 | PID: 8704
+[2025-08-03 17:44:39] Port: 49698 | PID: 8704
+[2025-08-03 17:44:39] Port: 49699 | PID: 8704
+[2025-08-03 17:44:39] Port: 2015 | PID: 6268
+[2025-08-03 17:44:39] Port: 2030 | PID: 8468
+[2025-08-03 17:44:39] Port: 5500 | PID: 8460
+[2025-08-03 17:44:39] Port: 5939 | PID: 8440
+[2025-08-03 17:44:39] Port: 49716 | PID: 1524
+[2025-08-03 17:44:39] Port: 49717 | PID: 1524
+[2025-08-03 17:44:39] Port: 49720 | PID: 1772
+[2025-08-03 17:44:39] Port: 49721 | PID: 1772
+[2025-08-03 17:44:39] Port: 49722 | PID: 5776
+[2025-08-03 17:44:39] Port: 49723 | PID: 5776
+[2025-08-03 17:44:39] Port: 139 | PID: 4
+[2025-08-03 17:44:39] Port: 52946 | PID: 5720
+[2025-08-03 17:44:39] Port: 53060 | PID: 16740
+[2025-08-03 17:44:39] Port: 53068 | PID: 22216
+[2025-08-03 17:44:39] Port: 54235 | PID: 18340
+[2025-08-03 17:44:39] Port: 54238 | PID: 18340
+[2025-08-03 17:44:39] Port: 54243 | PID: 25564
+[2025-08-03 17:44:39] Port: 54245 | PID: 0
+[2025-08-03 17:44:39] Port: 54247 | PID: 0
+[2025-08-03 17:44:39] Port: 54248 | PID: 13584
+[2025-08-03 17:44:39] Port: 54249 | PID: 18368
+[2025-08-03 17:44:39] Port: 62048 | PID: 8404
+[2025-08-03 17:44:39] Port: 139 | PID: 4
+[2025-08-03 17:49:33] PID: 30524 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 20412 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 13688 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 32316 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 27220 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 24520 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 6440 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 944 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 30892 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 30152 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 3520 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 3616 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 20632 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 16420 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 18156 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 30576 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 19260 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 24952 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 16200 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 30012 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 31320 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 27352 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 6028 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 30432 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 9284 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 11916 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 32028 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 32484 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 20156 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 21460 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 16740 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 6492 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 32764 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 31628 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 25564 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 10592 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 30236 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 19100 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 20656 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 10084 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 16624 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 30328 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 2948 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 23056 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 27064 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 9960 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 15408 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 20244 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 2872 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 15940 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 22216 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 13584 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 5308 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 30176 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 32324 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 23400 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 17548 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 16792 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 15248 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 24296 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 28912 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 27920 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 22904 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 24680 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 21408 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 29856 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 17744 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 27460 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 18636 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 29264 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 7180 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 23024 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 30316 | Process Name: <unknown>
+[2025-08-03 17:49:33] PID: 12584 | Process Name: main.exe
+[2025-08-03 17:49:33] Memory Usage: 6586 MB / 7865 MB (83)
+[2025-08-03 17:49:33] CPU Usage: 11.90
+[2025-08-03 17:49:33] Port: 135 | PID: 1652
+[2025-08-03 17:49:33] Port: 445 | PID: 4
+[2025-08-03 17:49:33] Port: 1521 | PID: 8460
+[2025-08-03 17:49:33] Port: 5040 | PID: 10776
+[2025-08-03 17:49:33] Port: 7070 | PID: 5720
+[2025-08-03 17:49:33] Port: 7680 | PID: 3008
+[2025-08-03 17:49:33] Port: 49664 | PID: 1356
+[2025-08-03 17:49:33] Port: 49665 | PID: 1188
+[2025-08-03 17:49:33] Port: 49668 | PID: 3388
+[2025-08-03 17:49:33] Port: 49669 | PID: 3496
+[2025-08-03 17:49:33] Port: 49672 | PID: 5348
+[2025-08-03 17:49:33] Port: 49681 | PID: 1308
+[2025-08-03 17:49:33] Port: 49695 | PID: 8704
+[2025-08-03 17:49:33] Port: 49697 | PID: 8704
+[2025-08-03 17:49:33] Port: 49698 | PID: 8704
+[2025-08-03 17:49:33] Port: 49699 | PID: 8704
+[2025-08-03 17:49:33] Port: 2015 | PID: 6268
+[2025-08-03 17:49:33] Port: 2030 | PID: 8468
+[2025-08-03 17:49:33] Port: 5500 | PID: 8460
+[2025-08-03 17:49:33] Port: 5939 | PID: 8440
+[2025-08-03 17:49:33] Port: 49716 | PID: 1524
+[2025-08-03 17:49:33] Port: 49717 | PID: 1524
+[2025-08-03 17:49:33] Port: 49720 | PID: 1772
+[2025-08-03 17:49:33] Port: 49721 | PID: 1772
+[2025-08-03 17:49:33] Port: 49722 | PID: 5776
+[2025-08-03 17:49:33] Port: 49723 | PID: 5776
+[2025-08-03 17:49:33] Port: 139 | PID: 4
+[2025-08-03 17:49:33] Port: 52946 | PID: 5720
+[2025-08-03 17:49:33] Port: 53060 | PID: 16740
+[2025-08-03 17:49:33] Port: 53068 | PID: 22216
+[2025-08-03 17:49:33] Port: 54243 | PID: 25564
+[2025-08-03 17:49:33] Port: 54252 | PID: 25564
+[2025-08-03 17:49:33] Port: 62048 | PID: 8404
+[2025-08-03 17:49:33] Port: 139 | PID: 4
+[2025-08-03 17:52:21] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 17:52:21] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:52:21] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:52:21] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:52:21] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:52:21] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 17:52:21] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 17:52:21] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 17:52:21] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 17:52:21] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 17:52:21] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 17:52:21] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 17:52:21] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:52:21] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 17:52:21] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 17:52:21] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 17:52:21] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:52:21] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:52:21] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:52:21] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 17:52:21] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 17:52:21] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:52:21] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:52:21] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:52:21] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:52:21] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:52:21] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:52:21] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:52:21] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:52:21] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 17:52:21] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 17:52:21] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:52:21] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:52:21] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:52:21] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:52:21] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:52:21] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:52:21] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:52:21] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 17:52:21] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:52:21] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 17:52:21] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:52:21] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:52:21] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 17:52:21] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 17:52:21] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 17:52:21] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 17:52:21] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:52:21] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 17:52:21] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:52:21] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 17:52:21] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 17:52:21] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:52:21] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:52:21] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 17:52:21] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 17:52:21] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 17:52:21] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 17:52:21] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 17:52:21] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 17:52:21] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:52:21] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 17:52:21] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:52:21] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:52:21] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:52:21] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:52:21] PID: 17744 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 17:52:21] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 17:52:21] PID: 18636 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 17:52:21] PID: 29264 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 17:52:21] PID: 7180 | Process Name: \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2025-08-03 17:52:21] PID: 23244 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 17:52:21] Memory Usage: 6589 MB / 7865 MB (83)
+[2025-08-03 17:52:21] CPU Usage: 11.90
+[2025-08-03 17:52:21] Port: 135 | PID: 1652
+[2025-08-03 17:52:21] Port: 445 | PID: 4
+[2025-08-03 17:52:21] Port: 1521 | PID: 8460
+[2025-08-03 17:52:21] Port: 5040 | PID: 10776
+[2025-08-03 17:52:21] Port: 7070 | PID: 5720
+[2025-08-03 17:52:21] Port: 7680 | PID: 3008
+[2025-08-03 17:52:21] Port: 49664 | PID: 1356
+[2025-08-03 17:52:21] Port: 49665 | PID: 1188
+[2025-08-03 17:52:21] Port: 49668 | PID: 3388
+[2025-08-03 17:52:21] Port: 49669 | PID: 3496
+[2025-08-03 17:52:21] Port: 49672 | PID: 5348
+[2025-08-03 17:52:21] Port: 49681 | PID: 1308
+[2025-08-03 17:52:21] Port: 49695 | PID: 8704
+[2025-08-03 17:52:21] Port: 49697 | PID: 8704
+[2025-08-03 17:52:21] Port: 49698 | PID: 8704
+[2025-08-03 17:52:21] Port: 49699 | PID: 8704
+[2025-08-03 17:52:21] Port: 2015 | PID: 6268
+[2025-08-03 17:52:21] Port: 2030 | PID: 8468
+[2025-08-03 17:52:21] Port: 5500 | PID: 8460
+[2025-08-03 17:52:21] Port: 5939 | PID: 8440
+[2025-08-03 17:52:21] Port: 49716 | PID: 1524
+[2025-08-03 17:52:21] Port: 49717 | PID: 1524
+[2025-08-03 17:52:21] Port: 49720 | PID: 1772
+[2025-08-03 17:52:21] Port: 49721 | PID: 1772
+[2025-08-03 17:52:21] Port: 49722 | PID: 5776
+[2025-08-03 17:52:21] Port: 49723 | PID: 5776
+[2025-08-03 17:52:21] Port: 139 | PID: 4
+[2025-08-03 17:52:21] Port: 52946 | PID: 5720
+[2025-08-03 17:52:21] Port: 53060 | PID: 16740
+[2025-08-03 17:52:21] Port: 53068 | PID: 22216
+[2025-08-03 17:52:21] Port: 54243 | PID: 0
+[2025-08-03 17:52:21] Port: 54252 | PID: 0
+[2025-08-03 17:52:21] Port: 54255 | PID: 0
+[2025-08-03 17:52:21] Port: 54256 | PID: 0
+[2025-08-03 17:52:21] Port: 54257 | PID: 0
+[2025-08-03 17:52:21] Port: 54258 | PID: 25564
+[2025-08-03 17:52:21] Port: 54259 | PID: 0
+[2025-08-03 17:52:21] Port: 62048 | PID: 8404
+[2025-08-03 17:52:21] Port: 139 | PID: 4
+[2025-08-03 17:53:39] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 17:53:39] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:39] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:39] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:39] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:53:39] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 17:53:39] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 17:53:39] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 17:53:39] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 17:53:39] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 17:53:39] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 17:53:39] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 17:53:39] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:39] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 17:53:39] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 17:53:39] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 17:53:39] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:39] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:39] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:39] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 17:53:39] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 17:53:39] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:39] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:39] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:39] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:39] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:39] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:39] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:39] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:39] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 17:53:39] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 17:53:39] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:39] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:39] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:39] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:39] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:39] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:39] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:39] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 17:53:39] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:39] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 17:53:39] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:39] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:39] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 17:53:39] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 17:53:39] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 17:53:39] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 17:53:39] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:39] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 17:53:39] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:39] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 17:53:39] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 17:53:39] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:39] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:39] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 17:53:39] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 17:53:39] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 17:53:39] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 17:53:39] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 17:53:39] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 17:53:39] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:39] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 17:53:39] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:39] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:53:39] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:53:39] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:53:39] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 17:53:39] PID: 18636 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 17:53:39] PID: 29264 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 17:53:39] PID: 7180 | Process Name: \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2025-08-03 17:53:39] PID: 5788 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:39] PID: 26268 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 17:53:39] PID: 26012 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 17:53:39] Memory Usage: 6425 MB / 7865 MB (81)
+[2025-08-03 17:53:39] CPU Usage: 11.90
+[2025-08-03 17:53:39] Port: 135 | PID: 1652
+[2025-08-03 17:53:39] Port: 445 | PID: 4
+[2025-08-03 17:53:39] Port: 1521 | PID: 8460
+[2025-08-03 17:53:39] Port: 5040 | PID: 10776
+[2025-08-03 17:53:39] Port: 7070 | PID: 5720
+[2025-08-03 17:53:39] Port: 7680 | PID: 3008
+[2025-08-03 17:53:39] Port: 49664 | PID: 1356
+[2025-08-03 17:53:39] Port: 49665 | PID: 1188
+[2025-08-03 17:53:39] Port: 49668 | PID: 3388
+[2025-08-03 17:53:39] Port: 49669 | PID: 3496
+[2025-08-03 17:53:39] Port: 49672 | PID: 5348
+[2025-08-03 17:53:39] Port: 49681 | PID: 1308
+[2025-08-03 17:53:39] Port: 49695 | PID: 8704
+[2025-08-03 17:53:39] Port: 49697 | PID: 8704
+[2025-08-03 17:53:39] Port: 49698 | PID: 8704
+[2025-08-03 17:53:39] Port: 49699 | PID: 8704
+[2025-08-03 17:53:39] Port: 2015 | PID: 6268
+[2025-08-03 17:53:39] Port: 2030 | PID: 8468
+[2025-08-03 17:53:39] Port: 5500 | PID: 8460
+[2025-08-03 17:53:39] Port: 5939 | PID: 8440
+[2025-08-03 17:53:39] Port: 49716 | PID: 1524
+[2025-08-03 17:53:39] Port: 49717 | PID: 1524
+[2025-08-03 17:53:39] Port: 49720 | PID: 1772
+[2025-08-03 17:53:39] Port: 49721 | PID: 1772
+[2025-08-03 17:53:39] Port: 49722 | PID: 5776
+[2025-08-03 17:53:39] Port: 49723 | PID: 5776
+[2025-08-03 17:53:39] Port: 139 | PID: 4
+[2025-08-03 17:53:39] Port: 52946 | PID: 5720
+[2025-08-03 17:53:39] Port: 53060 | PID: 16740
+[2025-08-03 17:53:39] Port: 53068 | PID: 22216
+[2025-08-03 17:53:39] Port: 54258 | PID: 0
+[2025-08-03 17:53:39] Port: 54259 | PID: 0
+[2025-08-03 17:53:39] Port: 62048 | PID: 8404
+[2025-08-03 17:53:39] Port: 139 | PID: 4
+[2025-08-03 17:53:46] PID: 5720 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\AnyDesk\AnyDesk.exe
+[2025-08-03 17:53:46] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 17:53:46] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:46] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:46] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:46] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:53:46] PID: 32076 | Process Name: \Device\HarddiskVolume3\Program Files\HP\Overlay\OverlayHelper.exe
+[2025-08-03 17:53:46] PID: 30688 | Process Name: \Device\HarddiskVolume3\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+[2025-08-03 17:53:46] PID: 24564 | Process Name: \Device\HarddiskVolume3\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+[2025-08-03 17:53:46] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 17:53:46] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 17:53:46] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 17:53:46] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 17:53:46] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 17:53:46] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 17:53:46] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 17:53:46] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:46] PID: 18712 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:53:46] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 17:53:46] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 17:53:46] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 17:53:46] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:46] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:46] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:46] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 17:53:46] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 17:53:46] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:46] PID: 16388 | Process Name: \Device\HarddiskVolume3\Windows\System32\ctfmon.exe
+[2025-08-03 17:53:46] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:46] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:46] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:46] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:46] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:53:46] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:46] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:46] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 17:53:46] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 17:53:46] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:46] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:46] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:46] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:46] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:46] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:46] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:46] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 17:53:46] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:46] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 17:53:46] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:46] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:46] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 17:53:46] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 17:53:46] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 17:53:46] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 17:53:46] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:46] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 17:53:46] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:46] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 17:53:46] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 17:53:46] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:46] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:46] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 17:53:46] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 17:53:46] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 17:53:46] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 17:53:46] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 17:53:46] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 17:53:46] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:53:46] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 17:53:46] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:53:46] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:53:46] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:53:46] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:53:46] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 17:53:46] PID: 18636 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 17:53:46] PID: 29264 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 17:53:46] PID: 7180 | Process Name: \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2025-08-03 17:53:46] PID: 5788 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:53:46] PID: 26268 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 17:53:46] PID: 20628 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 17:53:46] Memory Usage: 6382 MB / 7865 MB (81)
+[2025-08-03 17:53:46] CPU Usage: 11.90
+[2025-08-03 17:53:46] Port: 135 | PID: 1652
+[2025-08-03 17:53:46] Port: 445 | PID: 4
+[2025-08-03 17:53:46] Port: 1521 | PID: 8460
+[2025-08-03 17:53:46] Port: 5040 | PID: 10776
+[2025-08-03 17:53:46] Port: 7070 | PID: 5720
+[2025-08-03 17:53:46] Port: 7680 | PID: 3008
+[2025-08-03 17:53:46] Port: 49664 | PID: 1356
+[2025-08-03 17:53:46] Port: 49665 | PID: 1188
+[2025-08-03 17:53:46] Port: 49668 | PID: 3388
+[2025-08-03 17:53:46] Port: 49669 | PID: 3496
+[2025-08-03 17:53:46] Port: 49672 | PID: 5348
+[2025-08-03 17:53:46] Port: 49681 | PID: 1308
+[2025-08-03 17:53:46] Port: 49695 | PID: 8704
+[2025-08-03 17:53:46] Port: 49697 | PID: 8704
+[2025-08-03 17:53:46] Port: 49698 | PID: 8704
+[2025-08-03 17:53:46] Port: 49699 | PID: 8704
+[2025-08-03 17:53:46] Port: 2015 | PID: 6268
+[2025-08-03 17:53:46] Port: 2030 | PID: 8468
+[2025-08-03 17:53:46] Port: 5500 | PID: 8460
+[2025-08-03 17:53:46] Port: 5939 | PID: 8440
+[2025-08-03 17:53:46] Port: 49716 | PID: 1524
+[2025-08-03 17:53:46] Port: 49717 | PID: 1524
+[2025-08-03 17:53:46] Port: 49720 | PID: 1772
+[2025-08-03 17:53:46] Port: 49721 | PID: 1772
+[2025-08-03 17:53:46] Port: 49722 | PID: 5776
+[2025-08-03 17:53:46] Port: 49723 | PID: 5776
+[2025-08-03 17:53:46] Port: 139 | PID: 4
+[2025-08-03 17:53:46] Port: 52946 | PID: 5720
+[2025-08-03 17:53:46] Port: 53060 | PID: 16740
+[2025-08-03 17:53:46] Port: 53068 | PID: 22216
+[2025-08-03 17:53:46] Port: 54258 | PID: 0
+[2025-08-03 17:53:46] Port: 54259 | PID: 0
+[2025-08-03 17:53:46] Port: 62048 | PID: 8404
+[2025-08-03 17:53:46] Port: 139 | PID: 4
+[2025-08-03 17:54:05] PID: 5720 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\AnyDesk\AnyDesk.exe
+[2025-08-03 17:54:05] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 17:54:05] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:05] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:05] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:05] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:54:05] PID: 32076 | Process Name: \Device\HarddiskVolume3\Program Files\HP\Overlay\OverlayHelper.exe
+[2025-08-03 17:54:05] PID: 30688 | Process Name: \Device\HarddiskVolume3\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+[2025-08-03 17:54:05] PID: 24564 | Process Name: \Device\HarddiskVolume3\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+[2025-08-03 17:54:05] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 17:54:05] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 17:54:05] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 17:54:05] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 17:54:05] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 17:54:05] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 17:54:05] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 17:54:05] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:05] PID: 18712 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:54:05] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 17:54:05] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 17:54:05] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 17:54:05] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:05] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:05] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:05] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 17:54:05] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 17:54:05] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:05] PID: 16388 | Process Name: \Device\HarddiskVolume3\Windows\System32\ctfmon.exe
+[2025-08-03 17:54:05] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:05] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:05] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:05] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:05] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:05] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:05] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:05] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 17:54:05] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 17:54:05] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:05] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:05] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:05] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:05] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:05] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:05] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:05] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 17:54:05] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:05] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 17:54:05] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:05] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:05] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 17:54:05] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 17:54:05] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 17:54:05] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 17:54:05] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:05] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 17:54:05] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:05] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 17:54:05] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 17:54:05] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:05] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:05] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 17:54:05] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 17:54:05] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 17:54:05] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 17:54:05] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 17:54:05] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 17:54:05] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:05] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 17:54:05] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:05] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:54:05] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:54:05] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:54:05] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 17:54:05] PID: 18636 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 17:54:05] PID: 29264 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 17:54:05] PID: 7180 | Process Name: \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2025-08-03 17:54:05] PID: 26268 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 17:54:05] PID: 30656 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:05] PID: 12456 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 17:54:05] Memory Usage: 6382 MB / 7865 MB (81)
+[2025-08-03 17:54:05] CPU Usage: 11.90
+[2025-08-03 17:54:05] Port: 135 | PID: 1652
+[2025-08-03 17:54:05] Port: 445 | PID: 4
+[2025-08-03 17:54:05] Port: 1521 | PID: 8460
+[2025-08-03 17:54:05] Port: 5040 | PID: 10776
+[2025-08-03 17:54:05] Port: 7070 | PID: 5720
+[2025-08-03 17:54:05] Port: 7680 | PID: 3008
+[2025-08-03 17:54:05] Port: 49664 | PID: 1356
+[2025-08-03 17:54:05] Port: 49665 | PID: 1188
+[2025-08-03 17:54:05] Port: 49668 | PID: 3388
+[2025-08-03 17:54:05] Port: 49669 | PID: 3496
+[2025-08-03 17:54:05] Port: 49672 | PID: 5348
+[2025-08-03 17:54:05] Port: 49681 | PID: 1308
+[2025-08-03 17:54:05] Port: 49695 | PID: 8704
+[2025-08-03 17:54:05] Port: 49697 | PID: 8704
+[2025-08-03 17:54:05] Port: 49698 | PID: 8704
+[2025-08-03 17:54:05] Port: 49699 | PID: 8704
+[2025-08-03 17:54:05] Port: 2015 | PID: 6268
+[2025-08-03 17:54:05] Port: 2030 | PID: 8468
+[2025-08-03 17:54:05] Port: 5500 | PID: 8460
+[2025-08-03 17:54:05] Port: 5939 | PID: 8440
+[2025-08-03 17:54:05] Port: 49716 | PID: 1524
+[2025-08-03 17:54:05] Port: 49717 | PID: 1524
+[2025-08-03 17:54:05] Port: 49720 | PID: 1772
+[2025-08-03 17:54:05] Port: 49721 | PID: 1772
+[2025-08-03 17:54:05] Port: 49722 | PID: 5776
+[2025-08-03 17:54:05] Port: 49723 | PID: 5776
+[2025-08-03 17:54:05] Port: 139 | PID: 4
+[2025-08-03 17:54:05] Port: 52946 | PID: 5720
+[2025-08-03 17:54:05] Port: 53060 | PID: 16740
+[2025-08-03 17:54:05] Port: 53068 | PID: 22216
+[2025-08-03 17:54:05] Port: 54258 | PID: 0
+[2025-08-03 17:54:05] Port: 54259 | PID: 0
+[2025-08-03 17:54:05] Port: 54260 | PID: 25564
+[2025-08-03 17:54:05] Port: 62048 | PID: 8404
+[2025-08-03 17:54:05] Port: 139 | PID: 4
+[2025-08-03 17:54:39] PID: 5720 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\AnyDesk\AnyDesk.exe
+[2025-08-03 17:54:39] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 17:54:39] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:39] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:39] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:39] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:54:39] PID: 32076 | Process Name: \Device\HarddiskVolume3\Program Files\HP\Overlay\OverlayHelper.exe
+[2025-08-03 17:54:39] PID: 30688 | Process Name: \Device\HarddiskVolume3\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+[2025-08-03 17:54:39] PID: 24564 | Process Name: \Device\HarddiskVolume3\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+[2025-08-03 17:54:39] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 17:54:39] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 17:54:39] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 17:54:39] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 17:54:39] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 17:54:39] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 17:54:39] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 17:54:39] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:39] PID: 18712 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:54:39] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 17:54:39] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 17:54:39] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 17:54:39] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:39] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:39] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:39] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 17:54:39] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 17:54:39] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:39] PID: 16388 | Process Name: \Device\HarddiskVolume3\Windows\System32\ctfmon.exe
+[2025-08-03 17:54:39] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:39] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:39] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:39] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:39] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:54:39] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:39] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:39] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 17:54:39] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 17:54:39] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:39] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:39] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:39] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:39] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:39] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:39] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:39] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 17:54:39] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:39] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 17:54:39] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:39] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:39] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 17:54:39] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 17:54:39] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 17:54:39] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 17:54:39] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:39] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 17:54:39] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:39] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 17:54:39] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 17:54:39] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:39] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:39] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 17:54:39] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 17:54:39] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 17:54:39] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 17:54:39] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 17:54:39] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 17:54:39] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:54:39] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 17:54:39] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:39] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:54:39] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:54:39] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:54:39] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 17:54:39] PID: 18636 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 17:54:39] PID: 29264 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 17:54:39] PID: 7180 | Process Name: \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2025-08-03 17:54:39] PID: 26268 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 17:54:39] PID: 30656 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:54:39] PID: 15576 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 17:54:39] PID: 25916 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:54:39] PID: 10368 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 17:54:39] Memory Usage: 6432 MB / 7865 MB (81)
+[2025-08-03 17:54:39] CPU Usage: 11.90
+[2025-08-03 17:54:39] Port: 135 | PID: 1652
+[2025-08-03 17:54:39] Port: 445 | PID: 4
+[2025-08-03 17:54:39] Port: 1521 | PID: 8460
+[2025-08-03 17:54:39] Port: 5040 | PID: 10776
+[2025-08-03 17:54:39] Port: 7070 | PID: 5720
+[2025-08-03 17:54:39] Port: 7680 | PID: 3008
+[2025-08-03 17:54:39] Port: 49664 | PID: 1356
+[2025-08-03 17:54:39] Port: 49665 | PID: 1188
+[2025-08-03 17:54:39] Port: 49668 | PID: 3388
+[2025-08-03 17:54:39] Port: 49669 | PID: 3496
+[2025-08-03 17:54:39] Port: 49672 | PID: 5348
+[2025-08-03 17:54:39] Port: 49681 | PID: 1308
+[2025-08-03 17:54:39] Port: 49695 | PID: 8704
+[2025-08-03 17:54:39] Port: 49697 | PID: 8704
+[2025-08-03 17:54:39] Port: 49698 | PID: 8704
+[2025-08-03 17:54:39] Port: 49699 | PID: 8704
+[2025-08-03 17:54:39] Port: 2015 | PID: 6268
+[2025-08-03 17:54:39] Port: 2030 | PID: 8468
+[2025-08-03 17:54:39] Port: 5500 | PID: 8460
+[2025-08-03 17:54:39] Port: 5939 | PID: 8440
+[2025-08-03 17:54:39] Port: 49716 | PID: 1524
+[2025-08-03 17:54:39] Port: 49717 | PID: 1524
+[2025-08-03 17:54:39] Port: 49720 | PID: 1772
+[2025-08-03 17:54:39] Port: 49721 | PID: 1772
+[2025-08-03 17:54:39] Port: 49722 | PID: 5776
+[2025-08-03 17:54:39] Port: 49723 | PID: 5776
+[2025-08-03 17:54:39] Port: 139 | PID: 4
+[2025-08-03 17:54:39] Port: 52946 | PID: 5720
+[2025-08-03 17:54:39] Port: 53060 | PID: 16740
+[2025-08-03 17:54:39] Port: 53068 | PID: 22216
+[2025-08-03 17:54:39] Port: 54258 | PID: 0
+[2025-08-03 17:54:39] Port: 54260 | PID: 25564
+[2025-08-03 17:54:39] Port: 62048 | PID: 8404
+[2025-08-03 17:54:39] Port: 139 | PID: 4
+[2025-08-03 17:57:10] PID: 5720 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\AnyDesk\AnyDesk.exe
+[2025-08-03 17:57:10] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 17:57:10] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:57:10] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:57:10] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:57:10] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:57:10] PID: 32076 | Process Name: \Device\HarddiskVolume3\Program Files\HP\Overlay\OverlayHelper.exe
+[2025-08-03 17:57:10] PID: 30688 | Process Name: \Device\HarddiskVolume3\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+[2025-08-03 17:57:10] PID: 24564 | Process Name: \Device\HarddiskVolume3\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+[2025-08-03 17:57:10] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 17:57:10] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 17:57:10] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 17:57:10] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 17:57:10] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 17:57:10] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 17:57:10] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 17:57:10] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:57:10] PID: 18712 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:57:10] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 17:57:10] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 17:57:10] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 17:57:10] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:57:10] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:57:10] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:57:10] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 17:57:10] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 17:57:10] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:57:10] PID: 16388 | Process Name: \Device\HarddiskVolume3\Windows\System32\ctfmon.exe
+[2025-08-03 17:57:10] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:57:10] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:57:10] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:57:10] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:57:10] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:57:10] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:57:10] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:57:10] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 17:57:10] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 17:57:10] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:57:10] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:57:10] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:57:10] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:57:10] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:57:10] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:57:10] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:57:10] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 17:57:10] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:57:10] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 17:57:10] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:57:10] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:57:10] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 17:57:10] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 17:57:10] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 17:57:10] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 17:57:10] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:57:10] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 17:57:10] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:57:10] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 17:57:10] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 17:57:10] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:57:10] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:57:10] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 17:57:10] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 17:57:10] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 17:57:10] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 17:57:10] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 17:57:10] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 17:57:10] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:57:10] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 17:57:10] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:57:10] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:57:10] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:57:10] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:57:10] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 17:57:10] PID: 18636 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 17:57:10] PID: 29264 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 17:57:10] PID: 7180 | Process Name: \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2025-08-03 17:57:10] PID: 26268 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 17:57:10] PID: 5892 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2504.62.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+[2025-08-03 17:57:10] PID: 32420 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 17:57:10] PID: 31704 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:57:10] PID: 13492 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:57:10] PID: 20236 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 17:57:10] Memory Usage: 6773 MB / 7865 MB (86)
+[2025-08-03 17:57:10] CPU Usage: 11.90
+[2025-08-03 17:57:10] Port: 135 | PID: 1652
+[2025-08-03 17:57:10] Port: 445 | PID: 4
+[2025-08-03 17:57:10] Port: 1521 | PID: 8460
+[2025-08-03 17:57:10] Port: 5040 | PID: 10776
+[2025-08-03 17:57:10] Port: 7070 | PID: 5720
+[2025-08-03 17:57:10] Port: 7680 | PID: 3008
+[2025-08-03 17:57:10] Port: 49664 | PID: 1356
+[2025-08-03 17:57:10] Port: 49665 | PID: 1188
+[2025-08-03 17:57:10] Port: 49668 | PID: 3388
+[2025-08-03 17:57:10] Port: 49669 | PID: 3496
+[2025-08-03 17:57:10] Port: 49672 | PID: 5348
+[2025-08-03 17:57:10] Port: 49681 | PID: 1308
+[2025-08-03 17:57:10] Port: 49695 | PID: 8704
+[2025-08-03 17:57:10] Port: 49697 | PID: 8704
+[2025-08-03 17:57:10] Port: 49698 | PID: 8704
+[2025-08-03 17:57:10] Port: 49699 | PID: 8704
+[2025-08-03 17:57:10] Port: 2015 | PID: 6268
+[2025-08-03 17:57:10] Port: 2030 | PID: 8468
+[2025-08-03 17:57:10] Port: 5500 | PID: 8460
+[2025-08-03 17:57:10] Port: 5939 | PID: 8440
+[2025-08-03 17:57:10] Port: 49716 | PID: 1524
+[2025-08-03 17:57:10] Port: 49717 | PID: 1524
+[2025-08-03 17:57:10] Port: 49720 | PID: 1772
+[2025-08-03 17:57:10] Port: 49721 | PID: 1772
+[2025-08-03 17:57:10] Port: 49722 | PID: 5776
+[2025-08-03 17:57:10] Port: 49723 | PID: 5776
+[2025-08-03 17:57:10] Port: 139 | PID: 4
+[2025-08-03 17:57:10] Port: 52946 | PID: 5720
+[2025-08-03 17:57:10] Port: 53060 | PID: 16740
+[2025-08-03 17:57:10] Port: 53068 | PID: 22216
+[2025-08-03 17:57:10] Port: 54260 | PID: 25564
+[2025-08-03 17:57:10] Port: 54269 | PID: 0
+[2025-08-03 17:57:10] Port: 54280 | PID: 25564
+[2025-08-03 17:57:10] Port: 62048 | PID: 8404
+[2025-08-03 17:57:10] Port: 139 | PID: 4
+[2025-08-03 17:59:59] PID: 5720 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\AnyDesk\AnyDesk.exe
+[2025-08-03 17:59:59] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 17:59:59] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:59:59] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:59:59] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:59:59] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:59:59] PID: 32076 | Process Name: \Device\HarddiskVolume3\Program Files\HP\Overlay\OverlayHelper.exe
+[2025-08-03 17:59:59] PID: 30688 | Process Name: \Device\HarddiskVolume3\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+[2025-08-03 17:59:59] PID: 24564 | Process Name: \Device\HarddiskVolume3\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+[2025-08-03 17:59:59] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 17:59:59] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 17:59:59] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 17:59:59] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 17:59:59] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 17:59:59] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 17:59:59] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 17:59:59] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:59:59] PID: 18712 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 17:59:59] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 17:59:59] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 17:59:59] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 17:59:59] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:59:59] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:59:59] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:59:59] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 17:59:59] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 17:59:59] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:59:59] PID: 16388 | Process Name: \Device\HarddiskVolume3\Windows\System32\ctfmon.exe
+[2025-08-03 17:59:59] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:59:59] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:59:59] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:59:59] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:59:59] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 17:59:59] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:59:59] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:59:59] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 17:59:59] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 17:59:59] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:59:59] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:59:59] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:59:59] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:59:59] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:59:59] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:59:59] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:59:59] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 17:59:59] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:59:59] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 17:59:59] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:59:59] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:59:59] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 17:59:59] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 17:59:59] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 17:59:59] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 17:59:59] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:59:59] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 17:59:59] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:59:59] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 17:59:59] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 17:59:59] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:59:59] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:59:59] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 17:59:59] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 17:59:59] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 17:59:59] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 17:59:59] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 17:59:59] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 17:59:59] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 17:59:59] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 17:59:59] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 17:59:59] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:59:59] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:59:59] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 17:59:59] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 17:59:59] PID: 18636 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 17:59:59] PID: 29264 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 17:59:59] PID: 7180 | Process Name: \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2025-08-03 17:59:59] PID: 26268 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 17:59:59] PID: 27148 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 17:59:59] PID: 9924 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 17:59:59] PID: 31248 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 17:59:59] PID: 28608 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 17:59:59] Memory Usage: 6730 MB / 7865 MB (85)
+[2025-08-03 17:59:59] CPU Usage: 11.89
+[2025-08-03 17:59:59] Port: 135 | PID: 1652
+[2025-08-03 17:59:59] Port: 445 | PID: 4
+[2025-08-03 17:59:59] Port: 1521 | PID: 8460
+[2025-08-03 17:59:59] Port: 5040 | PID: 10776
+[2025-08-03 17:59:59] Port: 7070 | PID: 5720
+[2025-08-03 17:59:59] Port: 7680 | PID: 3008
+[2025-08-03 17:59:59] Port: 49664 | PID: 1356
+[2025-08-03 17:59:59] Port: 49665 | PID: 1188
+[2025-08-03 17:59:59] Port: 49668 | PID: 3388
+[2025-08-03 17:59:59] Port: 49669 | PID: 3496
+[2025-08-03 17:59:59] Port: 49672 | PID: 5348
+[2025-08-03 17:59:59] Port: 49681 | PID: 1308
+[2025-08-03 17:59:59] Port: 49695 | PID: 8704
+[2025-08-03 17:59:59] Port: 49697 | PID: 8704
+[2025-08-03 17:59:59] Port: 49698 | PID: 8704
+[2025-08-03 17:59:59] Port: 49699 | PID: 8704
+[2025-08-03 17:59:59] Port: 2015 | PID: 6268
+[2025-08-03 17:59:59] Port: 2030 | PID: 8468
+[2025-08-03 17:59:59] Port: 5500 | PID: 8460
+[2025-08-03 17:59:59] Port: 5939 | PID: 8440
+[2025-08-03 17:59:59] Port: 49716 | PID: 1524
+[2025-08-03 17:59:59] Port: 49717 | PID: 1524
+[2025-08-03 17:59:59] Port: 49720 | PID: 1772
+[2025-08-03 17:59:59] Port: 49721 | PID: 1772
+[2025-08-03 17:59:59] Port: 49722 | PID: 5776
+[2025-08-03 17:59:59] Port: 49723 | PID: 5776
+[2025-08-03 17:59:59] Port: 139 | PID: 4
+[2025-08-03 17:59:59] Port: 52946 | PID: 5720
+[2025-08-03 17:59:59] Port: 53060 | PID: 16740
+[2025-08-03 17:59:59] Port: 53068 | PID: 22216
+[2025-08-03 17:59:59] Port: 54260 | PID: 25564
+[2025-08-03 17:59:59] Port: 54282 | PID: 25564
+[2025-08-03 17:59:59] Port: 62048 | PID: 8404
+[2025-08-03 17:59:59] Port: 139 | PID: 4
+[2025-08-03 18:03:20] PID: 5720 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\AnyDesk\AnyDesk.exe
+[2025-08-03 18:03:20] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 18:03:20] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:03:20] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:03:20] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:03:20] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 18:03:20] PID: 32076 | Process Name: \Device\HarddiskVolume3\Program Files\HP\Overlay\OverlayHelper.exe
+[2025-08-03 18:03:20] PID: 30688 | Process Name: \Device\HarddiskVolume3\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+[2025-08-03 18:03:20] PID: 24564 | Process Name: \Device\HarddiskVolume3\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+[2025-08-03 18:03:20] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 18:03:20] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 18:03:20] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 18:03:20] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 18:03:20] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 18:03:20] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 18:03:20] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 18:03:20] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:03:20] PID: 18712 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 18:03:20] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 18:03:20] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 18:03:20] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 18:03:20] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:03:20] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:03:20] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:03:20] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 18:03:20] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 18:03:20] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:03:20] PID: 16388 | Process Name: \Device\HarddiskVolume3\Windows\System32\ctfmon.exe
+[2025-08-03 18:03:20] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:03:20] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:03:20] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:03:20] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:03:20] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:03:20] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:03:20] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:03:20] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 18:03:20] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 18:03:20] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:03:20] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:03:20] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:03:20] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:03:20] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:03:20] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:03:20] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:03:20] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 18:03:20] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:03:20] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 18:03:20] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:03:20] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:03:20] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 18:03:20] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 18:03:20] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 18:03:20] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 18:03:20] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:03:20] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 18:03:20] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:03:20] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 18:03:20] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 18:03:20] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:03:20] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:03:20] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 18:03:20] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 18:03:20] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 18:03:20] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 18:03:20] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 18:03:20] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 18:03:20] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:03:20] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 18:03:20] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:03:20] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:03:20] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:03:20] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:03:20] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 18:03:20] PID: 18636 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 18:03:20] PID: 29264 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 18:03:20] PID: 7180 | Process Name: \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2025-08-03 18:03:20] PID: 26268 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 18:03:20] PID: 19508 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2504.62.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+[2025-08-03 18:03:20] PID: 13900 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:03:20] PID: 30148 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 18:03:20] Memory Usage: 6623 MB / 7865 MB (84)
+[2025-08-03 18:03:20] CPU Usage: 11.89
+[2025-08-03 18:03:20] Port: 135 | PID: 1652
+[2025-08-03 18:03:20] Port: 445 | PID: 4
+[2025-08-03 18:03:20] Port: 1521 | PID: 8460
+[2025-08-03 18:03:20] Port: 5040 | PID: 10776
+[2025-08-03 18:03:20] Port: 7070 | PID: 5720
+[2025-08-03 18:03:20] Port: 7680 | PID: 3008
+[2025-08-03 18:03:20] Port: 49664 | PID: 1356
+[2025-08-03 18:03:20] Port: 49665 | PID: 1188
+[2025-08-03 18:03:20] Port: 49668 | PID: 3388
+[2025-08-03 18:03:20] Port: 49669 | PID: 3496
+[2025-08-03 18:03:20] Port: 49672 | PID: 5348
+[2025-08-03 18:03:20] Port: 49681 | PID: 1308
+[2025-08-03 18:03:20] Port: 49695 | PID: 8704
+[2025-08-03 18:03:20] Port: 49697 | PID: 8704
+[2025-08-03 18:03:20] Port: 49698 | PID: 8704
+[2025-08-03 18:03:20] Port: 49699 | PID: 8704
+[2025-08-03 18:03:20] Port: 2015 | PID: 6268
+[2025-08-03 18:03:20] Port: 2030 | PID: 8468
+[2025-08-03 18:03:20] Port: 5500 | PID: 8460
+[2025-08-03 18:03:20] Port: 5939 | PID: 8440
+[2025-08-03 18:03:20] Port: 49716 | PID: 1524
+[2025-08-03 18:03:20] Port: 49717 | PID: 1524
+[2025-08-03 18:03:20] Port: 49720 | PID: 1772
+[2025-08-03 18:03:20] Port: 49721 | PID: 1772
+[2025-08-03 18:03:20] Port: 49722 | PID: 5776
+[2025-08-03 18:03:20] Port: 49723 | PID: 5776
+[2025-08-03 18:03:20] Port: 139 | PID: 4
+[2025-08-03 18:03:20] Port: 52946 | PID: 5720
+[2025-08-03 18:03:20] Port: 53060 | PID: 16740
+[2025-08-03 18:03:20] Port: 53068 | PID: 22216
+[2025-08-03 18:03:20] Port: 54283 | PID: 25564
+[2025-08-03 18:03:20] Port: 54284 | PID: 0
+[2025-08-03 18:03:20] Port: 54285 | PID: 0
+[2025-08-03 18:03:20] Port: 54286 | PID: 0
+[2025-08-03 18:03:20] Port: 54287 | PID: 0
+[2025-08-03 18:03:20] Port: 54289 | PID: 0
+[2025-08-03 18:03:20] Port: 54290 | PID: 0
+[2025-08-03 18:03:20] Port: 54291 | PID: 0
+[2025-08-03 18:03:20] Port: 54292 | PID: 0
+[2025-08-03 18:03:20] Port: 54293 | PID: 0
+[2025-08-03 18:03:20] Port: 54294 | PID: 0
+[2025-08-03 18:03:20] Port: 54295 | PID: 0
+[2025-08-03 18:03:20] Port: 62048 | PID: 8404
+[2025-08-03 18:03:20] Port: 139 | PID: 4
+[2025-08-03 18:07:37] PID: 5720 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\AnyDesk\AnyDesk.exe
+[2025-08-03 18:07:37] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 18:07:37] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:07:37] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:07:37] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:07:37] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 18:07:37] PID: 32076 | Process Name: \Device\HarddiskVolume3\Program Files\HP\Overlay\OverlayHelper.exe
+[2025-08-03 18:07:37] PID: 30688 | Process Name: \Device\HarddiskVolume3\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+[2025-08-03 18:07:37] PID: 24564 | Process Name: \Device\HarddiskVolume3\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+[2025-08-03 18:07:37] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 18:07:37] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 18:07:37] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 18:07:37] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 18:07:37] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 18:07:37] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 18:07:37] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 18:07:37] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:07:37] PID: 18712 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 18:07:37] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 18:07:37] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 18:07:37] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 18:07:37] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:07:37] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:07:37] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:07:37] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 18:07:37] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 18:07:37] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:07:37] PID: 16388 | Process Name: \Device\HarddiskVolume3\Windows\System32\ctfmon.exe
+[2025-08-03 18:07:37] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:07:37] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:07:37] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:07:37] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:07:37] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:07:37] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:07:37] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:07:37] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 18:07:37] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 18:07:37] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:07:37] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:07:37] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:07:37] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:07:37] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:07:37] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:07:37] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:07:37] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 18:07:37] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:07:37] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 18:07:37] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:07:37] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:07:37] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 18:07:37] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 18:07:37] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 18:07:37] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 18:07:37] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:07:37] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 18:07:37] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:07:37] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 18:07:37] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 18:07:37] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:07:37] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:07:37] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 18:07:37] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 18:07:37] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 18:07:37] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 18:07:37] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 18:07:37] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 18:07:37] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:07:37] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 18:07:37] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:07:37] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:07:37] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:07:37] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:07:37] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 18:07:37] PID: 26268 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 18:07:37] PID: 4524 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:07:37] PID: 7328 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 18:07:37] PID: 3944 | Process Name: \Device\HarddiskVolume3\Windows\System32\audiodg.exe
+[2025-08-03 18:07:37] PID: 26108 | Process Name: \Device\HarddiskVolume3\Windows\System32\DataExchangeHost.exe
+[2025-08-03 18:07:37] PID: 10032 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:07:37] PID: 19324 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:07:37] PID: 13972 | Process Name: \Device\HarddiskVolume3\Windows\System32\cmd.exe
+[2025-08-03 18:07:37] PID: 31600 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 18:07:37] PID: 18260 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 18:07:37] PID: 28400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 18:07:37] PID: 27864 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 18:07:37] Memory Usage: 6627 MB / 7865 MB (84)
+[2025-08-03 18:07:37] CPU Usage: 11.89
+[2025-08-03 18:07:37] Port: 135 | PID: 1652
+[2025-08-03 18:07:37] Port: 445 | PID: 4
+[2025-08-03 18:07:37] Port: 1521 | PID: 8460
+[2025-08-03 18:07:37] Port: 5040 | PID: 10776
+[2025-08-03 18:07:37] Port: 7070 | PID: 5720
+[2025-08-03 18:07:37] Port: 7680 | PID: 3008
+[2025-08-03 18:07:37] Port: 49664 | PID: 1356
+[2025-08-03 18:07:37] Port: 49665 | PID: 1188
+[2025-08-03 18:07:37] Port: 49668 | PID: 3388
+[2025-08-03 18:07:37] Port: 49669 | PID: 3496
+[2025-08-03 18:07:37] Port: 49672 | PID: 5348
+[2025-08-03 18:07:37] Port: 49681 | PID: 1308
+[2025-08-03 18:07:37] Port: 49695 | PID: 8704
+[2025-08-03 18:07:37] Port: 49697 | PID: 8704
+[2025-08-03 18:07:37] Port: 49698 | PID: 8704
+[2025-08-03 18:07:37] Port: 49699 | PID: 8704
+[2025-08-03 18:07:37] Port: 2015 | PID: 6268
+[2025-08-03 18:07:37] Port: 2030 | PID: 8468
+[2025-08-03 18:07:37] Port: 5500 | PID: 8460
+[2025-08-03 18:07:37] Port: 5939 | PID: 8440
+[2025-08-03 18:07:37] Port: 49716 | PID: 1524
+[2025-08-03 18:07:37] Port: 49717 | PID: 1524
+[2025-08-03 18:07:37] Port: 49720 | PID: 1772
+[2025-08-03 18:07:37] Port: 49721 | PID: 1772
+[2025-08-03 18:07:37] Port: 49722 | PID: 5776
+[2025-08-03 18:07:37] Port: 49723 | PID: 5776
+[2025-08-03 18:07:37] Port: 139 | PID: 4
+[2025-08-03 18:07:37] Port: 52946 | PID: 5720
+[2025-08-03 18:07:37] Port: 53060 | PID: 16740
+[2025-08-03 18:07:37] Port: 53068 | PID: 22216
+[2025-08-03 18:07:37] Port: 54283 | PID: 25564
+[2025-08-03 18:07:37] Port: 54296 | PID: 944
+[2025-08-03 18:07:37] Port: 54297 | PID: 944
+[2025-08-03 18:07:37] Port: 54298 | PID: 18740
+[2025-08-03 18:07:37] Port: 54299 | PID: 944
+[2025-08-03 18:07:37] Port: 62048 | PID: 8404
+[2025-08-03 18:07:37] Port: 139 | PID: 4
+[2025-08-03 18:14:48] PID: 5720 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\AnyDesk\AnyDesk.exe
+[2025-08-03 18:14:48] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 18:14:48] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:14:48] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:14:48] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:14:48] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 18:14:48] PID: 32076 | Process Name: \Device\HarddiskVolume3\Program Files\HP\Overlay\OverlayHelper.exe
+[2025-08-03 18:14:48] PID: 30688 | Process Name: \Device\HarddiskVolume3\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+[2025-08-03 18:14:48] PID: 24564 | Process Name: \Device\HarddiskVolume3\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+[2025-08-03 18:14:48] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 18:14:48] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 18:14:48] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 18:14:48] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 18:14:48] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 18:14:48] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 18:14:48] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 18:14:48] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:14:48] PID: 18712 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 18:14:48] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 18:14:48] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 18:14:48] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 18:14:48] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:14:48] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:14:48] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:14:48] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 18:14:48] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 18:14:48] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:14:48] PID: 16388 | Process Name: \Device\HarddiskVolume3\Windows\System32\ctfmon.exe
+[2025-08-03 18:14:48] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:14:48] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:14:48] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:14:48] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:14:48] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:14:48] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:14:48] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:14:48] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 18:14:48] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 18:14:48] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:14:48] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:14:48] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:14:48] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:14:48] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:14:48] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:14:48] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:14:48] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 18:14:48] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:14:48] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 18:14:48] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:14:48] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:14:48] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 18:14:48] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 18:14:48] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 18:14:48] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 18:14:48] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:14:48] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 18:14:48] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:14:48] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 18:14:48] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 18:14:48] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:14:48] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:14:48] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 18:14:48] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 18:14:48] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 18:14:48] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 18:14:48] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 18:14:48] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 18:14:48] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:14:48] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 18:14:48] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:14:48] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:14:48] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:14:48] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:14:48] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 18:14:48] PID: 26268 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 18:14:48] PID: 1716 | Process Name: \Device\HarddiskVolume3\Windows\System32\audiodg.exe
+[2025-08-03 18:14:48] PID: 14972 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 18:14:48] PID: 21624 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 18:14:48] PID: 31424 | Process Name: \Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+[2025-08-03 18:14:48] PID: 30148 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:14:48] PID: 7224 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 18:14:48] PID: 16240 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 18:14:48] PID: 8824 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 18:14:48] Memory Usage: 6957 MB / 7865 MB (88)
+[2025-08-03 18:14:48] CPU Usage: 11.89
+[2025-08-03 18:14:48] Port: 135 | PID: 1652
+[2025-08-03 18:14:48] Port: 445 | PID: 4
+[2025-08-03 18:14:48] Port: 1521 | PID: 8460
+[2025-08-03 18:14:48] Port: 5040 | PID: 10776
+[2025-08-03 18:14:48] Port: 7070 | PID: 5720
+[2025-08-03 18:14:48] Port: 7680 | PID: 3008
+[2025-08-03 18:14:48] Port: 49664 | PID: 1356
+[2025-08-03 18:14:49] Port: 49665 | PID: 1188
+[2025-08-03 18:14:49] Port: 49668 | PID: 3388
+[2025-08-03 18:14:49] Port: 49669 | PID: 3496
+[2025-08-03 18:14:49] Port: 49672 | PID: 5348
+[2025-08-03 18:14:49] Port: 49681 | PID: 1308
+[2025-08-03 18:14:49] Port: 49695 | PID: 8704
+[2025-08-03 18:14:49] Port: 49697 | PID: 8704
+[2025-08-03 18:14:49] Port: 49698 | PID: 8704
+[2025-08-03 18:14:49] Port: 49699 | PID: 8704
+[2025-08-03 18:14:49] Port: 2015 | PID: 6268
+[2025-08-03 18:14:49] Port: 2030 | PID: 8468
+[2025-08-03 18:14:49] Port: 5500 | PID: 8460
+[2025-08-03 18:14:49] Port: 5939 | PID: 8440
+[2025-08-03 18:14:49] Port: 49716 | PID: 1524
+[2025-08-03 18:14:49] Port: 49717 | PID: 1524
+[2025-08-03 18:14:49] Port: 49720 | PID: 1772
+[2025-08-03 18:14:49] Port: 49721 | PID: 1772
+[2025-08-03 18:14:49] Port: 49722 | PID: 5776
+[2025-08-03 18:14:49] Port: 49723 | PID: 5776
+[2025-08-03 18:14:49] Port: 139 | PID: 4
+[2025-08-03 18:14:49] Port: 52946 | PID: 5720
+[2025-08-03 18:14:49] Port: 53060 | PID: 16740
+[2025-08-03 18:14:49] Port: 53068 | PID: 22216
+[2025-08-03 18:14:49] Port: 54297 | PID: 944
+[2025-08-03 18:14:49] Port: 54299 | PID: 944
+[2025-08-03 18:14:49] Port: 54364 | PID: 0
+[2025-08-03 18:14:49] Port: 54365 | PID: 0
+[2025-08-03 18:14:49] Port: 54366 | PID: 30576
+[2025-08-03 18:14:49] Port: 54367 | PID: 0
+[2025-08-03 18:14:49] Port: 54370 | PID: 0
+[2025-08-03 18:14:49] Port: 54371 | PID: 0
+[2025-08-03 18:14:49] Port: 54372 | PID: 0
+[2025-08-03 18:14:49] Port: 54373 | PID: 22216
+[2025-08-03 18:14:49] Port: 62048 | PID: 8404
+[2025-08-03 18:14:49] Port: 139 | PID: 4
+[2025-08-03 18:15:01] PID: 5720 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\AnyDesk\AnyDesk.exe
+[2025-08-03 18:15:01] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 18:15:01] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:01] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:01] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:01] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 18:15:01] PID: 32076 | Process Name: \Device\HarddiskVolume3\Program Files\HP\Overlay\OverlayHelper.exe
+[2025-08-03 18:15:01] PID: 30688 | Process Name: \Device\HarddiskVolume3\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+[2025-08-03 18:15:01] PID: 24564 | Process Name: \Device\HarddiskVolume3\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+[2025-08-03 18:15:01] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 18:15:01] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 18:15:01] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 18:15:01] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 18:15:01] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 18:15:01] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 18:15:01] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 18:15:01] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:01] PID: 18712 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 18:15:01] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 18:15:01] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 18:15:01] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 18:15:01] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:01] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:01] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:01] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 18:15:01] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 18:15:01] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:01] PID: 16388 | Process Name: \Device\HarddiskVolume3\Windows\System32\ctfmon.exe
+[2025-08-03 18:15:01] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:01] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:01] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:01] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:01] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:01] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:01] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:01] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 18:15:01] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 18:15:01] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:01] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:01] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:01] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:01] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:01] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:01] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:01] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 18:15:01] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:01] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 18:15:01] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:01] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:01] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 18:15:01] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 18:15:01] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 18:15:01] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 18:15:01] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:01] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 18:15:01] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:01] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 18:15:01] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 18:15:01] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:01] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:01] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 18:15:01] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 18:15:01] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 18:15:01] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 18:15:01] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 18:15:01] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 18:15:01] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:01] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 18:15:01] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:01] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:15:01] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:15:01] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:15:01] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 18:15:01] PID: 26268 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 18:15:01] PID: 1716 | Process Name: \Device\HarddiskVolume3\Windows\System32\audiodg.exe
+[2025-08-03 18:15:01] PID: 30148 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:01] PID: 30448 | Process Name: \Device\HarddiskVolume3\Windows\SysWOW64\dllhost.exe
+[2025-08-03 18:15:01] PID: 17772 | Process Name: \Device\HarddiskVolume3\Windows\System32\cmd.exe
+[2025-08-03 18:15:01] PID: 19980 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 18:15:01] PID: 21756 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 18:15:01] PID: 6772 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 18:15:01] PID: 13084 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 18:15:01] Memory Usage: 6905 MB / 7865 MB (87)
+[2025-08-03 18:15:01] CPU Usage: 11.89
+[2025-08-03 18:15:01] Port: 135 | PID: 1652
+[2025-08-03 18:15:01] Port: 445 | PID: 4
+[2025-08-03 18:15:01] Port: 1521 | PID: 8460
+[2025-08-03 18:15:01] Port: 5040 | PID: 10776
+[2025-08-03 18:15:01] Port: 7070 | PID: 5720
+[2025-08-03 18:15:01] Port: 7680 | PID: 3008
+[2025-08-03 18:15:01] Port: 49664 | PID: 1356
+[2025-08-03 18:15:01] Port: 49665 | PID: 1188
+[2025-08-03 18:15:01] Port: 49668 | PID: 3388
+[2025-08-03 18:15:01] Port: 49669 | PID: 3496
+[2025-08-03 18:15:01] Port: 49672 | PID: 5348
+[2025-08-03 18:15:01] Port: 49681 | PID: 1308
+[2025-08-03 18:15:01] Port: 49695 | PID: 8704
+[2025-08-03 18:15:01] Port: 49697 | PID: 8704
+[2025-08-03 18:15:01] Port: 49698 | PID: 8704
+[2025-08-03 18:15:01] Port: 49699 | PID: 8704
+[2025-08-03 18:15:01] Port: 2015 | PID: 6268
+[2025-08-03 18:15:01] Port: 2030 | PID: 8468
+[2025-08-03 18:15:01] Port: 5500 | PID: 8460
+[2025-08-03 18:15:01] Port: 5939 | PID: 8440
+[2025-08-03 18:15:01] Port: 49716 | PID: 1524
+[2025-08-03 18:15:01] Port: 49717 | PID: 1524
+[2025-08-03 18:15:01] Port: 49720 | PID: 1772
+[2025-08-03 18:15:01] Port: 49721 | PID: 1772
+[2025-08-03 18:15:01] Port: 49722 | PID: 5776
+[2025-08-03 18:15:01] Port: 49723 | PID: 5776
+[2025-08-03 18:15:01] Port: 139 | PID: 4
+[2025-08-03 18:15:01] Port: 52946 | PID: 5720
+[2025-08-03 18:15:01] Port: 53060 | PID: 16740
+[2025-08-03 18:15:01] Port: 53068 | PID: 22216
+[2025-08-03 18:15:01] Port: 54297 | PID: 944
+[2025-08-03 18:15:01] Port: 54299 | PID: 944
+[2025-08-03 18:15:01] Port: 54364 | PID: 0
+[2025-08-03 18:15:01] Port: 54365 | PID: 0
+[2025-08-03 18:15:01] Port: 54367 | PID: 0
+[2025-08-03 18:15:01] Port: 54370 | PID: 0
+[2025-08-03 18:15:01] Port: 54371 | PID: 0
+[2025-08-03 18:15:01] Port: 54372 | PID: 0
+[2025-08-03 18:15:01] Port: 54373 | PID: 22216
+[2025-08-03 18:15:01] Port: 62048 | PID: 8404
+[2025-08-03 18:15:01] Port: 139 | PID: 4
+[2025-08-03 18:15:22] PID: 5720 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\AnyDesk\AnyDesk.exe
+[2025-08-03 18:15:22] PID: 30524 | Process Name: \Device\HarddiskVolume3\Windows\System32\sihost.exe
+[2025-08-03 18:15:22] PID: 20412 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:22] PID: 13688 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:22] PID: 32316 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:22] PID: 27220 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 18:15:22] PID: 32076 | Process Name: \Device\HarddiskVolume3\Program Files\HP\Overlay\OverlayHelper.exe
+[2025-08-03 18:15:22] PID: 30688 | Process Name: \Device\HarddiskVolume3\Program Files\HP\OmenInstallMonitor\OmenInstallMonitor.exe
+[2025-08-03 18:15:22] PID: 24564 | Process Name: \Device\HarddiskVolume3\Program Files\HP\SystemOptimizer\SystemOptimizer.exe
+[2025-08-03 18:15:22] PID: 24520 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\seapo64.inf_amd64_7ab1ea12f6a5b2d0\SECOCL64.exe
+[2025-08-03 18:15:22] PID: 6440 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 18:15:22] PID: 944 | Process Name: \Device\HarddiskVolume3\Windows\explorer.exe
+[2025-08-03 18:15:22] PID: 30892 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_ac13c23bf8b4219a\ipf_helper.exe
+[2025-08-03 18:15:22] PID: 30152 | Process Name: \Device\HarddiskVolume3\Program Files\McAfee\WebAdvisor\uihost.exe
+[2025-08-03 18:15:22] PID: 3520 | Process Name: \Device\HarddiskVolume3\Windows\System32\ETDCtrl.exe
+[2025-08-03 18:15:22] PID: 3616 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[2025-08-03 18:15:22] PID: 20632 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:22] PID: 18712 | Process Name: \Device\HarddiskVolume3\Windows\System32\taskhostw.exe
+[2025-08-03 18:15:22] PID: 16420 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[2025-08-03 18:15:22] PID: 18156 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[2025-08-03 18:15:22] PID: 30576 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[2025-08-03 18:15:22] PID: 19260 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:22] PID: 24952 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:22] PID: 16200 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:22] PID: 30012 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.9.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[2025-08-03 18:15:22] PID: 31320 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2025-08-03 18:15:22] PID: 27352 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:22] PID: 16388 | Process Name: \Device\HarddiskVolume3\Windows\System32\ctfmon.exe
+[2025-08-03 18:15:22] PID: 6028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:22] PID: 30432 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:22] PID: 9284 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:22] PID: 11916 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:22] PID: 32028 | Process Name: \Device\HarddiskVolume3\Program Files (x86)\Microsoft\EdgeWebView\Application\138.0.3351.121\msedgewebview2.exe
+[2025-08-03 18:15:22] PID: 32484 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:22] PID: 20156 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:22] PID: 21460 | Process Name: \Device\HarddiskVolume3\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[2025-08-03 18:15:22] PID: 16740 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.YourPhone_1.25061.51.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[2025-08-03 18:15:22] PID: 6492 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:22] PID: 32764 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:22] PID: 31628 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:22] PID: 25564 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:22] PID: 10592 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:22] PID: 30236 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:22] PID: 19100 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:22] PID: 20656 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2530.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+[2025-08-03 18:15:22] PID: 10084 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:22] PID: 16624 | Process Name: \Device\HarddiskVolume3\Windows\System32\SecurityHealthSystray.exe
+[2025-08-03 18:15:22] PID: 30328 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:22] PID: 2948 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:22] PID: 23056 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe
+[2025-08-03 18:15:22] PID: 27064 | Process Name: \Device\HarddiskVolume3\Windows\System32\wbem\unsecapp.exe
+[2025-08-03 18:15:22] PID: 9960 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.1.46.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe
+[2025-08-03 18:15:22] PID: 15408 | Process Name: \Device\HarddiskVolume3\Program Files\HP\HP Media Network\HPMediaNetwork.exe
+[2025-08-03 18:15:22] PID: 20244 | Process Name: \Device\HarddiskVolume3\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[2025-08-03 18:15:22] PID: 2872 | Process Name: \Device\HarddiskVolume3\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_2cc55472c2ce1562\RtkAudUService64.exe
+[2025-08-03 18:15:22] PID: 15940 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:22] PID: 22216 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25062.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[2025-08-03 18:15:22] PID: 13584 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2505.23002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+[2025-08-03 18:15:22] PID: 5308 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:22] PID: 30176 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:22] PID: 32324 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\win32\DesktopExtension.exe
+[2025-08-03 18:15:22] PID: 23400 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.myHP_47.52530.5546.0_x64__v10z8vjag6ke6\HP.myHP.exe
+[2025-08-03 18:15:22] PID: 17548 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2507.4.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe
+[2025-08-03 18:15:22] PID: 16792 | Process Name: \Device\HarddiskVolume3\Windows\ImmersiveControlPanel\SystemSettings.exe
+[2025-08-03 18:15:22] PID: 15248 | Process Name: \Device\HarddiskVolume3\Windows\System32\ApplicationFrameHost.exe
+[2025-08-03 18:15:22] PID: 24296 | Process Name: \Device\HarddiskVolume3\Windows\System32\oobe\UserOOBEBroker.exe
+[2025-08-03 18:15:22] PID: 28912 | Process Name: \Device\HarddiskVolume3\Windows\System32\svchost.exe
+[2025-08-03 18:15:22] PID: 27920 | Process Name: \Device\HarddiskVolume3\Windows\System32\backgroundTaskHost.exe
+[2025-08-03 18:15:22] PID: 22904 | Process Name: \Device\HarddiskVolume3\Windows\System32\RuntimeBroker.exe
+[2025-08-03 18:15:22] PID: 24680 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:15:22] PID: 21408 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:15:22] PID: 29856 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:15:22] PID: 27460 | Process Name: \Device\HarddiskVolume3\Windows\System32\ShellHost.exe
+[2025-08-03 18:15:22] PID: 26268 | Process Name: \Device\HarddiskVolume3\Windows\System32\smartscreen.exe
+[2025-08-03 18:15:22] PID: 1716 | Process Name: \Device\HarddiskVolume3\Windows\System32\audiodg.exe
+[2025-08-03 18:15:22] PID: 30448 | Process Name: \Device\HarddiskVolume3\Windows\SysWOW64\dllhost.exe
+[2025-08-03 18:15:22] PID: 14784 | Process Name: \Device\HarddiskVolume3\Windows\System32\dllhost.exe
+[2025-08-03 18:15:22] PID: 20148 | Process Name: \Device\HarddiskVolume3\Windows\System32\cmd.exe
+[2025-08-03 18:15:22] PID: 21588 | Process Name: \Device\HarddiskVolume3\Windows\System32\conhost.exe
+[2025-08-03 18:15:22] PID: 22936 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+[2025-08-03 18:15:22] PID: 6336 | Process Name: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.22.11141.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+[2025-08-03 18:15:22] PID: 29108 | Process Name: \Device\HarddiskVolume3\windows projects\winmon\main.exe
+[2025-08-03 18:15:22] Memory Usage: 6895 MB / 7865 MB (87)
+[2025-08-03 18:15:22] CPU Usage: 11.89
+[2025-08-03 18:15:22] Port: 135 | PID: 1652
+[2025-08-03 18:15:22] Port: 445 | PID: 4
+[2025-08-03 18:15:22] Port: 1521 | PID: 8460
+[2025-08-03 18:15:22] Port: 5040 | PID: 10776
+[2025-08-03 18:15:22] Port: 7070 | PID: 5720
+[2025-08-03 18:15:22] Port: 7680 | PID: 3008
+[2025-08-03 18:15:22] Port: 49664 | PID: 1356
+[2025-08-03 18:15:22] Port: 49665 | PID: 1188
+[2025-08-03 18:15:22] Port: 49668 | PID: 3388
+[2025-08-03 18:15:22] Port: 49669 | PID: 3496
+[2025-08-03 18:15:22] Port: 49672 | PID: 5348
+[2025-08-03 18:15:22] Port: 49681 | PID: 1308
+[2025-08-03 18:15:22] Port: 49695 | PID: 8704
+[2025-08-03 18:15:22] Port: 49697 | PID: 8704
+[2025-08-03 18:15:22] Port: 49698 | PID: 8704
+[2025-08-03 18:15:22] Port: 49699 | PID: 8704
+[2025-08-03 18:15:22] Port: 2015 | PID: 6268
+[2025-08-03 18:15:22] Port: 2030 | PID: 8468
+[2025-08-03 18:15:22] Port: 5500 | PID: 8460
+[2025-08-03 18:15:22] Port: 5939 | PID: 8440
+[2025-08-03 18:15:22] Port: 49716 | PID: 1524
+[2025-08-03 18:15:22] Port: 49717 | PID: 1524
+[2025-08-03 18:15:22] Port: 49720 | PID: 1772
+[2025-08-03 18:15:22] Port: 49721 | PID: 1772
+[2025-08-03 18:15:22] Port: 49722 | PID: 5776
+[2025-08-03 18:15:22] Port: 49723 | PID: 5776
+[2025-08-03 18:15:22] Port: 139 | PID: 4
+[2025-08-03 18:15:22] Port: 52946 | PID: 5720
+[2025-08-03 18:15:22] Port: 53060 | PID: 16740
+[2025-08-03 18:15:22] Port: 53068 | PID: 22216
+[2025-08-03 18:15:22] Port: 54297 | PID: 944
+[2025-08-03 18:15:22] Port: 54299 | PID: 944
+[2025-08-03 18:15:22] Port: 54367 | PID: 0
+[2025-08-03 18:15:22] Port: 54370 | PID: 0
+[2025-08-03 18:15:22] Port: 54371 | PID: 0
+[2025-08-03 18:15:22] Port: 54372 | PID: 0
+[2025-08-03 18:15:22] Port: 54373 | PID: 22216
+[2025-08-03 18:15:22] Port: 62048 | PID: 8404
+[2025-08-03 18:15:22] Port: 139 | PID: 4
